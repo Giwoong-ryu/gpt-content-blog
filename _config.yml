@@ -1,0 +1,6 @@
+title: GPT 콘텐츠 블로그
+description: 자동으로 생성되는 AI 요약 콘텐츠
+theme: minima
+author: YourName
+plugins:
+  - jekyll-feed
